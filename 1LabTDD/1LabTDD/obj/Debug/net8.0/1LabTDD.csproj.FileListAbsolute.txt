@@ -1,0 +1,14 @@
+C:\Users\zkedz\Desktop\Shkola\Sem6\SE2\1LabTDD\1LabTDD\obj\Debug\net8.0\1LabTDD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zkedz\Desktop\Shkola\Sem6\SE2\1LabTDD\1LabTDD\obj\Debug\net8.0\1LabTDD.AssemblyInfoInputs.cache
+C:\Users\zkedz\Desktop\Shkola\Sem6\SE2\1LabTDD\1LabTDD\obj\Debug\net8.0\1LabTDD.AssemblyInfo.cs
+C:\Users\zkedz\Desktop\Shkola\Sem6\SE2\1LabTDD\1LabTDD\obj\Debug\net8.0\1LabTDD.csproj.CoreCompileInputs.cache
+C:\Users\zkedz\Desktop\Shkola\Sem6\SE2\1LabTDD\1LabTDD\bin\Debug\net8.0\1LabTDD.exe
+C:\Users\zkedz\Desktop\Shkola\Sem6\SE2\1LabTDD\1LabTDD\bin\Debug\net8.0\1LabTDD.deps.json
+C:\Users\zkedz\Desktop\Shkola\Sem6\SE2\1LabTDD\1LabTDD\bin\Debug\net8.0\1LabTDD.runtimeconfig.json
+C:\Users\zkedz\Desktop\Shkola\Sem6\SE2\1LabTDD\1LabTDD\bin\Debug\net8.0\1LabTDD.dll
+C:\Users\zkedz\Desktop\Shkola\Sem6\SE2\1LabTDD\1LabTDD\bin\Debug\net8.0\1LabTDD.pdb
+C:\Users\zkedz\Desktop\Shkola\Sem6\SE2\1LabTDD\1LabTDD\obj\Debug\net8.0\1LabTDD.dll
+C:\Users\zkedz\Desktop\Shkola\Sem6\SE2\1LabTDD\1LabTDD\obj\Debug\net8.0\refint\1LabTDD.dll
+C:\Users\zkedz\Desktop\Shkola\Sem6\SE2\1LabTDD\1LabTDD\obj\Debug\net8.0\1LabTDD.pdb
+C:\Users\zkedz\Desktop\Shkola\Sem6\SE2\1LabTDD\1LabTDD\obj\Debug\net8.0\1LabTDD.genruntimeconfig.cache
+C:\Users\zkedz\Desktop\Shkola\Sem6\SE2\1LabTDD\1LabTDD\obj\Debug\net8.0\ref\1LabTDD.dll
